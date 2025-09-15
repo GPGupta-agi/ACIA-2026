@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ACIA-2026/static/css/main.dd6b0fc5.css",
+    "main.js": "/ACIA-2026/static/js/main.66c9e5f2.js",
+    "static/js/453.8ab44547.chunk.js": "/ACIA-2026/static/js/453.8ab44547.chunk.js",
+    "static/media/nit-raipur-1.png": "/ACIA-2026/static/media/nit-raipur-1.1bea2938219365916336.png",
+    "static/media/Albert_einstein_by_zuzahin-d5pcbug-WikiCommons.jpg": "/ACIA-2026/static/media/Albert_einstein_by_zuzahin-d5pcbug-WikiCommons.890a8b61076602f97bdf.jpg",
+    "static/media/IEEE_logo.png": "/ACIA-2026/static/media/IEEE_logo.f31ecd7310b7fceefcb7.png",
+    "static/media/nitrr.gif": "/ACIA-2026/static/media/nitrr.9c974ea6c36a8a0e95d9.gif",
+    "static/media/ai_K.jpg": "/ACIA-2026/static/media/ai_K.e21b4dafcfbd7c2dfe41.jpg",
+    "static/media/CMT_logo.png": "/ACIA-2026/static/media/CMT_logo.719551b8d1b7c4625d81.png",
+    "static/media/logo_all_cropped.jpg": "/ACIA-2026/static/media/logo_all_cropped.7240abf716c17e205567.jpg",
+    "static/media/sign.png": "/ACIA-2026/static/media/sign.b64d693c21cffd8cb13f.png",
+    "static/media/ai.jpg": "/ACIA-2026/static/media/ai.d5764637f418782e41da.jpg",
+    "index.html": "/ACIA-2026/index.html",
+    "main.dd6b0fc5.css.map": "/ACIA-2026/static/css/main.dd6b0fc5.css.map",
+    "main.66c9e5f2.js.map": "/ACIA-2026/static/js/main.66c9e5f2.js.map",
+    "453.8ab44547.chunk.js.map": "/ACIA-2026/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6b0fc5.css",
+    "static/js/main.66c9e5f2.js"
+  ]
+}
